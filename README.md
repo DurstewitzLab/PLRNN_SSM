@@ -10,9 +10,9 @@ Copyright:
 2019 Georgia Koppe, Dept. of Theoretical Neuroscience, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University
 2019 Daniel Durstewitz, Dept. of Theoretical Neuroscience, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University
 
-The folder 'code_PLRNN_BOLD_SSM' found in the zip-file contains code of the probabilistic fMRI state space model ('PLRNN-BOLD-SSM' and 'LDS-BOLD-SSM'), as well as experimental data described in the journal article. For an example of how to start the code and run the algorithm on the given data set (including 'Algorithm-1'), please run 'Main_data_example.m'.
+The folder 'code_PLRNN_BOLD_SSM' found in the zip-file contains code for the probabilistic fMRI state space model ('PLRNN-BOLD-SSM' and 'LDS-BOLD-SSM'), as well as experimental data described in the journal article. For an example of how to start the code and run the algorithm on the given data set (including 'Algorithm-1'), please run 'Main_data_example.m'.
 
-The folder 'code_PLRNN_SSM' found in the zip-file contains code of the probabilistic state space model ('PLRNN-SSM' and 'LDS-SSM'), as well as self-generated benchmark system data obtained from the Lorenz and van der Pol systems described in the journal article. For an example of how to start the code and run the algorithm on the given data set (including 'Algorithm-1'), please run 'Main_benchmark_example.m'.
+The folder 'code_PLRNN_SSM' found in the zip-file contains code for the probabilistic state space model ('PLRNN-SSM' and 'LDS-SSM'), as well as self-generated benchmark system data obtained from the Lorenz and van der Pol systems described in the journal article. For an example of how to start the code and run the algorithm on the given data set (including 'Algorithm-1'), please run 'Main_benchmark_example.m'.
   
 
 In case of questions or comments, please contact georgia.koppe@zi-mannheim.de or daniel.durstewitz@zi-mannheim.de.
